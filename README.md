@@ -1,5 +1,7 @@
 # JOPLIN THEME - DARK GRUVBOX
 
+Fork of <https://github.com/robotcorner/joplin-theme-dark-gruvbox>
+
 ## NOTICE: ACCEPTING PULL REQUEST TO UPDATE THEME - If you made it better please update this repo! :)
 
 
@@ -19,3 +21,10 @@ In order to change settings you need to open your joplin advanced theme settings
 - Userstyle.css (Modifies just the markdown previewer)
 
 *Important:* Make sure you either download the fonts listed in the style and userchrome sheet or change them to something available on your system. I tested these a lot though, and they seem to work really well with each other. You can get the ones I selected from [google fonts](https://fonts.google.com/).
+
+## My Aims
+
+[ ] Improve CSS for nested lists
+[ ] Adapt Mermaid Rendering
+[ ] Add support for [Admonitions](https://github.com/docarys/markdown-it-admonition)
+[ ] Improve the Userchrome.css to work with newer verions of Joplin
